@@ -1,0 +1,10 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <RootNamespace>n_MattsCompletion</RootNamespace>
+    <StartupObject>n_MattsCompletion.Program</StartupObject>
+  </PropertyGroup>
+
+</Project>

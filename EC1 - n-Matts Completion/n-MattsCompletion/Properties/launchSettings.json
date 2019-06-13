@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "n-MattsCompletion": {
+      "commandName": "Project",
+      "commandLineArgs": "< tests.txt > results.txt",
+      "workingDirectory": "C:\\Users\\serap\\Google Drive\\School\\CSCD 320 - Algorithms\\Assignments\\EC1 - n-Matts Completion\\n-MattsCompletion"
+    }
+  }
+}

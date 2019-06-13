@@ -1,0 +1,11 @@
+C:\Users\serap\Google Drive\School\CSCD 320 - Algorithms\Assignments\EC1 - n-Matts Completion\n-MattsCompletion\bin\Debug\netcoreapp2.2\n-MattsCompletion.deps.json
+C:\Users\serap\Google Drive\School\CSCD 320 - Algorithms\Assignments\EC1 - n-Matts Completion\n-MattsCompletion\bin\Debug\netcoreapp2.2\n-MattsCompletion.runtimeconfig.json
+C:\Users\serap\Google Drive\School\CSCD 320 - Algorithms\Assignments\EC1 - n-Matts Completion\n-MattsCompletion\bin\Debug\netcoreapp2.2\n-MattsCompletion.runtimeconfig.dev.json
+C:\Users\serap\Google Drive\School\CSCD 320 - Algorithms\Assignments\EC1 - n-Matts Completion\n-MattsCompletion\bin\Debug\netcoreapp2.2\n-MattsCompletion.dll
+C:\Users\serap\Google Drive\School\CSCD 320 - Algorithms\Assignments\EC1 - n-Matts Completion\n-MattsCompletion\bin\Debug\netcoreapp2.2\n-MattsCompletion.pdb
+C:\Users\serap\Google Drive\School\CSCD 320 - Algorithms\Assignments\EC1 - n-Matts Completion\n-MattsCompletion\obj\Debug\netcoreapp2.2\n-MattsCompletion.csprojAssemblyReference.cache
+C:\Users\serap\Google Drive\School\CSCD 320 - Algorithms\Assignments\EC1 - n-Matts Completion\n-MattsCompletion\obj\Debug\netcoreapp2.2\n-MattsCompletion.csproj.CoreCompileInputs.cache
+C:\Users\serap\Google Drive\School\CSCD 320 - Algorithms\Assignments\EC1 - n-Matts Completion\n-MattsCompletion\obj\Debug\netcoreapp2.2\n-MattsCompletion.AssemblyInfoInputs.cache
+C:\Users\serap\Google Drive\School\CSCD 320 - Algorithms\Assignments\EC1 - n-Matts Completion\n-MattsCompletion\obj\Debug\netcoreapp2.2\n-MattsCompletion.AssemblyInfo.cs
+C:\Users\serap\Google Drive\School\CSCD 320 - Algorithms\Assignments\EC1 - n-Matts Completion\n-MattsCompletion\obj\Debug\netcoreapp2.2\n-MattsCompletion.dll
+C:\Users\serap\Google Drive\School\CSCD 320 - Algorithms\Assignments\EC1 - n-Matts Completion\n-MattsCompletion\obj\Debug\netcoreapp2.2\n-MattsCompletion.pdb
